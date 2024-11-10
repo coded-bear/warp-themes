@@ -1,0 +1,37 @@
+name: Minimal Gray Theme
+accent: "#fefffe"
+cursor: "#fefffe"
+foreground: "#dbdbdb"
+background: "#14191e"
+details:
+  custom:
+    outline_opacity: 12
+    main_text_opacity: 90
+    sub_text_opacity: 60
+    hint_text_opacity: 40
+    disabled_text_opacity: 20
+    foreground_button_opacity: 30
+    accent_button_opacity: 0
+    button_hover_opacity: 10
+    button_click_opacity: 20
+    keybinding_row_overlay_opacity: 40
+    welcome_tips_completion_overlay_opacity: 90
+terminal_colors:
+  normal:
+    black: "#14191e"
+    red: "#b43c29"
+    green: "#00c200"
+    yellow: "#bbbb00"
+    blue: "#268bd2"
+    magenta: "#bf3fbd"
+    cyan: "#00bbbb"
+    white: "#bbbbbb"
+  bright:
+    black: "#555555"
+    red: "#ff5555"
+    green: "#55ff55"
+    yellow: "#ffff55"
+    blue: "#5555ff"
+    magenta: "#ff55ff"
+    cyan: "#55ffff"
+    white: "#ffffff"
