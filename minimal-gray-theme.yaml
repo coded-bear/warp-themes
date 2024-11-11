@@ -1,37 +1,25 @@
 name: Minimal Gray Theme
-accent: "#fefffe"
-cursor: "#fefffe"
-foreground: "#dbdbdb"
-background: "#14191e"
-details:
-  custom:
-    outline_opacity: 12
-    main_text_opacity: 90
-    sub_text_opacity: 60
-    hint_text_opacity: 40
-    disabled_text_opacity: 20
-    foreground_button_opacity: 30
-    accent_button_opacity: 0
-    button_hover_opacity: 10
-    button_click_opacity: 20
-    keybinding_row_overlay_opacity: 40
-    welcome_tips_completion_overlay_opacity: 90
+accent: "#e5e5e5"
+cursor: "#e5e5e5"
+background: "#222222"
+foreground: "#e5e5e5"
+details: darker
 terminal_colors:
   normal:
-    black: "#14191e"
-    red: "#b43c29"
-    green: "#00c200"
-    yellow: "#bbbb00"
-    blue: "#268bd2"
-    magenta: "#bf3fbd"
-    cyan: "#00bbbb"
-    white: "#bbbbbb"
+    black: "#000000"
+    red: "#cd3131"
+    green: "#08bc79"
+    yellow: "#e5e511"
+    blue: "#2372c8"
+    magenta: "#bc3fbc"
+    cyan: "#0fa8cd"
+    white: "#e5e5e5"
   bright:
-    black: "#555555"
-    red: "#ff5555"
-    green: "#55ff55"
-    yellow: "#ffff55"
-    blue: "#5555ff"
-    magenta: "#ff55ff"
-    cyan: "#55ffff"
-    white: "#ffffff"
+    black: "#000000"
+    red: "#cd3131"
+    green: "#08bc79"
+    yellow: "#e5e511"
+    blue: "#2372c8"
+    magenta: "#bc3fbc"
+    cyan: "#0fa8cd"
+    white: "#e5e5e5"
